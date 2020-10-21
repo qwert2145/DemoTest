@@ -1,7 +1,7 @@
-package com.spring.test.inject;
+package com.test.spring.inject;
 
-import com.spring.test.inject.annotation.component.ComponentHelloWorld;
-import com.spring.test.inject.annotation.configuration.ConfigBean;
+import com.test.spring.inject.annotation.component.ComponentHelloWorld;
+import com.test.spring.inject.annotation.configuration.ConfigBean;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

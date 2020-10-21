@@ -1,6 +1,6 @@
-package com.spring.test.inject.annotation.configuration;
+package com.test.spring.inject.annotation.configuration;
 
-import com.spring.test.inject.HelloWorld;
+import com.test.spring.inject.HelloWorld;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Lazy;

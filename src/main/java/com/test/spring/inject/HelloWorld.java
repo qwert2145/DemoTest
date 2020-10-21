@@ -1,4 +1,4 @@
-package com.spring.test.inject;
+package com.test.spring.inject;
 
 public class HelloWorld {
     public String getName() {

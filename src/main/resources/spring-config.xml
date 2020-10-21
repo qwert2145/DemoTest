@@ -8,7 +8,7 @@
     <context:component-scan base-package="com.spring.test"/>
 
     <!-- 纯xml   -->
-    <bean id="helloWorld" class="com.spring.test.inject.HelloWorld" lazy-init="true">
+    <bean id="helloWorld" class="com.test.spring.inject.HelloWorld" lazy-init="true">
         <property name="name" value="xiaoming"></property>
     </bean>
 </beans>
