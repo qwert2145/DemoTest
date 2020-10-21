@@ -21,7 +21,6 @@
 
     <!-- 加载mapper.xml -->
     <mappers>
-        <!-- <package name=""> -->
         <mapper resource="mapper/CountryMapper.xml"></mapper>
     </mappers>
 </configuration>

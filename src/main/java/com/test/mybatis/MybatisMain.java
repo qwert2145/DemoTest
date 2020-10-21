@@ -27,6 +27,7 @@ public class MybatisMain {
 //        country.setCountryname("中国");
 //        mapper.insert(country);
         System.out.println(mapper.selectByPrimaryKey(7));
+        System.out.println(mapper.selectByPrimaryKey(7));
         sqlSession.commit();
         sqlSession.close();
     }
