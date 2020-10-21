@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class TestMain {
+public class InjectMain {
     public static void main(String[] args) {
         // 纯xml 格式
         //1.创建Spring IOC 容器对象
